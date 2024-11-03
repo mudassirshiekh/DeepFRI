@@ -1,4 +1,5 @@
 # DeepFRI
+#By Mudassir Alam
 Deep functional residue identification
 <img src="figs/pipeline.png">
 
